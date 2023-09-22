@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Parvathi/static/css/main.72c1dbbd.css",
+    "main.js": "/Parvathi/static/js/main.9cfde710.js",
+    "static/media/image1.jpg": "/Parvathi/static/media/image1.fc1a30ea461f5bb3988b.jpg",
+    "static/media/image3.jpg": "/Parvathi/static/media/image3.36c2a1ef0fb09e1fc6f9.jpg",
+    "index.html": "/Parvathi/index.html",
+    "main.72c1dbbd.css.map": "/Parvathi/static/css/main.72c1dbbd.css.map",
+    "main.9cfde710.js.map": "/Parvathi/static/js/main.9cfde710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c1dbbd.css",
+    "static/js/main.9cfde710.js"
+  ]
+}
